@@ -7,5 +7,5 @@ var myApp = angular.module('myApp', []);
 
 
 myApp.controller('MainApp', function($scope) {
-    $scope.helloWorld = 'hello there';
+    $scope.helloWorld = 'hello there2222';
 })
